@@ -2,7 +2,7 @@
 JSPatch热更新的基础用法
 #####简介
 >项目地址 : https://github.com/bang590/JSPatch
-SDK下载  :  http://jspatch.com（更新还是挺勤快的，还是昨天2016-12-15更新的~，版本已经到了V1.6.5 ）
+SDK下载  :  http://jspatch.com （更新还是挺勤快的，还是昨天2016-12-15更新的~，版本已经到了V1.6.5）
 
 ######关于JSPatch的优势( 详情请戳 http://blog.cnbang.net/works/2767/ )
 **1.JS语言**JS比Lua在应用开发领域有更广泛。
