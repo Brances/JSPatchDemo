@@ -24,13 +24,16 @@
 //测试替换OC方法
 -(void)creatView{
     UILabel *label = [[UILabel alloc] init];
-    label.frame = CGRectMake(20, 100, 200 - 20, 80);
+    label.frame = CGRectMake(20, 100, 200, 80);
     label.textColor = [UIColor blackColor];
     label.text = @"我是原始文字";
     label.backgroundColor = [UIColor whiteColor];
     label.textAlignment = NSTextAlignmentCenter;
     [self.view addSubview:label];
 }
+
+
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
